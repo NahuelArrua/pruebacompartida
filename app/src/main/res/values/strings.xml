@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Glampings.</string>
+    <string name="affirmation2">Todas las comodidades.</string>
+    <string name="affirmation3">Travesias en kayaks.</string>
+    <string name="affirmation4">Caminatas por senderos.</string>
+    <string name="affirmation5">Snorkel.</string>
+    <string name="affirmation6">Rappel y teleferico.</string>
+    <string name="affirmation7">Gastronomia regional.</string>
+    <string name="affirmation8">Guiado de estrellas.</string>
+    <string name="affirmation9">Avistamientos de diversas varidead de aves.</string>
+    <string name="affirmation10">Naturaleza en su maxima expresion.</string>
+</resources>
